@@ -1,6 +1,6 @@
 cask "prs-menubar" do
-  version "1.11"
-  sha256 "6f5791ddeb0d430ac7535cf0e410de75b643d34d2ee49dc8304b13f2f22fba20"
+  version "1.12"
+  sha256 "e571b547e1c2926ef89dae1fd3162ca838da7f8897c7cfb9474e002efaad2ee9"
 
   url "https://github.com/maiis/prs-menubar/releases/download/v#{version}/PRsMenuBar-#{version}.dmg"
   name "PRs MenuBar"
